@@ -13,7 +13,7 @@
 > buka
 > pkg install git
 > git clone https://github.com/dikaa125/dikaabot
-> cd alfbot
+> cd dikaabot
 > bash install.sh
 > node index.js
 ```
