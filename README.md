@@ -12,7 +12,7 @@
 > download termux
 > buka
 > pkg install git
-> git clone https://github.com/alfiansx/alfbot
+> git clone https://github.com/dikaa125/dikaabot
 > cd alfbot
 > bash install.sh
 > node index.js
@@ -45,7 +45,6 @@
 ## THANKS TO
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 * [`botst4rz`](https://github.com/Bintang73/botst4rz)
-* [`ibnusyawall`](https://github.com/ibnusyawall)
 
 ## DONASI
 -
